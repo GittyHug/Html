@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.System{
+    /* background-color:blue; */
+    /* height: 100px; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(../image/DoHero.07189ce2c65ed1e7a0a1.png); */
+    /* box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px; */
+}
+
+header{
+    height: 90px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+}
+
+.Holder{
+    /* background-color: aqua; */
+    height: 100%;
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: #03B903 2px solid;
+}
+
+.LogoDiv{
+   /*background-color: blue;*/
+   height: 100%;
+   width: 100px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.Logo{
+    font-size: 30px;
+    color: #03B903;
+    font-weight: 700;
+}
+
+.Navbar{
+    /* background-color: brown; */
+    height: 50%;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.HOME{
+    /* background-color: blue; */
+    height: 40px;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+
+.ABOUT{
+    /* background-color: purple; */
+    height: 40px;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+
+.FEATURES{
+    /* background-color: violet; */
+    height: 40px;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+
+.JOINUS{
+    /* background-color: indigo; */
+    height: 40px;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+
+.CTA{
+    /* background-color: #050794; */
+    height: 50%;
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.CAA{
+    background-color: green;
+    height: 50px;
+    width: 230px;
+    border-radius: 7px;
+    border: 1px green solid;
+    font-weight: bold;
+    color: white;
+}
+
+.Hero{
+    width: 100%;
+    height: calc(100vh - 90px);
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.HeroHolder{
+    width: 85%;
+    height: 100%;
+    /* background-color: aqua; */
+    display: flex;
+}
+
+.Left{
+    height: 100%;
+    width: 50%;
+    /* background-color: beige; */
+}
+
+.BigText{
+    font-size: 45px;
+    font-weight: bolder;
+    margin-top: 50px;
+}
+
+.SmallText{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.button{
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: #03B903;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    justify-content: center;
+
+}
+
+.Right{
+    height: 80%;
+    width: 50%;
+    /* background-color: violet; */
+    margin-top: 50px;
+    display: flex;align-items: center;
+    justify-content: center;
+}
+
+.IMGn{
+    height: 100%;
+}
